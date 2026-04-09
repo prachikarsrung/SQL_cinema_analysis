@@ -24,3 +24,24 @@ This project focuses on analyzing data using SQL queries to extract meaningful i
 SELECT subscription_plan, COUNT(*)
 FROM subscribers
 GROUP BY subscription_plan;
+## 📊 Output Screenshot
+
+Below is a preview of the SQL query results and analysis:
+
+![SQL Output](dashboard.png)
+
+*This screenshot highlights key insights such as user distribution by subscription plan, inactive users, and estimated revenue.*
+
+## 📂 SQL Queries File
+
+All SQL queries used in this project are available in the file below:
+
+👉 [View SQL File](analysis.sql)
+
+The SQL file includes:
+- Data aggregation queries
+- User activity analysis
+- Revenue estimation
+- Content and genre analysis
+
+Each query is well-structured and commented for better understanding.

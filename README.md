@@ -29,7 +29,8 @@ GROUP BY subscription_plan;
 
 Below is a preview of the SQL query results and analysis:
 
- ### 📊 [Dashboard](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/streaming_analysis.pdf)
+ ### 📊
+ [Dashboard](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/streaming_analysis.pdf)
 
 
 *This screenshot highlights key insights such as user distribution by subscription plan, inactive users, and estimated revenue.*

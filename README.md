@@ -24,7 +24,8 @@ This project focuses on analyzing data using SQL queries to extract meaningful i
 SELECT subscription_plan, COUNT(*)
 FROM subscribers
 GROUP BY subscription_plan;
-## 📊 Output Screenshot
+```
+### 📊 Output Screenshot
 
 Below is a preview of the SQL query results and analysis:
 
@@ -35,14 +36,13 @@ Dashboard=
 
 ## 📂 SQL Queries File
 
-All SQL queries used in this project are available in the file below:
+Access the complete set of SQL queries used for data analysis:
 
-👉 [View SQL File](analysis.sql)=https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql
+👉 [View Complete SQL Analysis](analysis.sql)
 
-The SQL file includes:
-- Data aggregation queries
-- User activity analysis
-- Revenue estimation
-- Content and genre analysis
+This file demonstrates:
+- Advanced SQL techniques (GROUP BY, JOIN, filtering)
+- Business-driven analysis
+- Clean and optimized query structure
 
-Each query is well-structured and commented for better understanding.
+The queries are designed to extract actionable insights from raw data.

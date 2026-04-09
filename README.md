@@ -38,7 +38,7 @@ Dashboard=
 
 Access the complete set of SQL queries used for data analysis:
 
-👉 [View Complete SQL Analysis](analysis.sql)
+👉 [View Complete SQL Analysis](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql)
 
 This file demonstrates:
 - Advanced SQL techniques (GROUP BY, JOIN, filtering)

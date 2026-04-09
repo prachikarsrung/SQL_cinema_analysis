@@ -29,8 +29,8 @@ GROUP BY subscription_plan;
 
 Below is a preview of the SQL query results and analysis:
 
-![SQL Output]
-Dashboard=
+[Dashboard](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jio_lio_streaming_dashboard.html)
+
 
 *This screenshot highlights key insights such as user distribution by subscription plan, inactive users, and estimated revenue.*
 
@@ -38,7 +38,7 @@ Dashboard=
 
 Access the complete set of SQL queries used for data analysis:
 
-👉 [View Complete SQL Analysis](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql)
+ [View Complete SQL Analysis](https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql)
 
 This file demonstrates:
 - Advanced SQL techniques (GROUP BY, JOIN, filtering)

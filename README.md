@@ -28,7 +28,7 @@ GROUP BY subscription_plan;
 
 Below is a preview of the SQL query results and analysis:
 
-![SQL Output]=https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql
+![SQL Output]
 Dashboard=
 
 *This screenshot highlights key insights such as user distribution by subscription plan, inactive users, and estimated revenue.*
@@ -37,7 +37,7 @@ Dashboard=
 
 All SQL queries used in this project are available in the file below:
 
-👉 [View SQL File](analysis.sql)
+👉 [View SQL File](analysis.sql)=https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql
 
 The SQL file includes:
 - Data aggregation queries

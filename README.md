@@ -28,7 +28,8 @@ GROUP BY subscription_plan;
 
 Below is a preview of the SQL query results and analysis:
 
-![SQL Output](dashboard.png)
+![SQL Output]=https://github.com/prachikarsrung/SQL_cinema_analysis/blob/main/jot_lio.sql
+Dashboard=
 
 *This screenshot highlights key insights such as user distribution by subscription plan, inactive users, and estimated revenue.*
 

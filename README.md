@@ -47,3 +47,30 @@ This file demonstrates:
 - Clean and optimized query structure
 
 The queries are designed to extract actionable insights from raw data.
+
+## 📊 Key Insights
+
+- JioStar has higher user engagement than LioCinema  
+- Mobile users contribute **60% of total watch time**  
+- Drama and Action genres dominate viewership  
+- Premium plan users generate the highest revenue  
+
+---
+
+## ❓ Important Business Questions
+
+1. Which platform has higher user engagement?  
+2. Which content type/genre performs best?  
+3. Which subscription plan generates the most users?  
+4. How does watch time vary by device?  
+5. Which users are most active?  
+
+---
+
+## 📌 Analysis Summary
+
+- **Platform Engagement:** JioStar shows stronger engagement compared to LioCinema  
+- **Top Genre:** Drama and Action are the most popular content categories  
+- **Revenue Driver:** Premium subscription plan contributes the highest revenue  
+- **Device Usage:** Mobile dominates watch time consumption  
+- **Active Users:** Users with frequent watch sessions and longer watch time are most active  
